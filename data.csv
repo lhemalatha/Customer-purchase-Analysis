@@ -1,0 +1,31 @@
+order_id,customer_id,purchase_date,product_category,quantity,total_amount,region
+ORD-1001,C-204,2025-11-02,Electronics,1,1299,North
+ORD-1002,C-118,2025-11-03,Apparel,2,148,South
+ORD-1003,C-204,2025-11-05,Home & Garden,1,89,West
+ORD-1004,C-092,2025-11-06,Groceries,8,64,North
+ORD-1005,C-331,2025-11-07,Electronics,1,799,East
+ORD-1006,C-118,2025-11-08,Apparel,3,210,South
+ORD-1007,C-445,2025-11-10,Sports,2,178,West
+ORD-1008,C-092,2025-11-11,Groceries,12,96,North
+ORD-1009,C-204,2025-11-12,Electronics,2,458,West
+ORD-1010,C-512,2025-11-14,Home & Garden,4,156,South
+ORD-1011,C-331,2025-11-15,Beauty,1,42,East
+ORD-1012,C-667,2025-11-16,Electronics,1,1099,North
+ORD-1013,C-118,2025-11-18,Apparel,1,79,South
+ORD-1014,C-092,2025-11-19,Groceries,6,72,North
+ORD-1015,C-445,2025-11-20,Sports,1,320,West
+ORD-1016,C-512,2025-11-22,Home & Garden,2,98,South
+ORD-1017,C-204,2025-11-23,Electronics,1,249,West
+ORD-1018,C-331,2025-11-24,Beauty,3,96,East
+ORD-1019,C-667,2025-11-25,Groceries,10,80,North
+ORD-1020,C-118,2025-11-26,Apparel,2,134,South
+ORD-1021,C-092,2025-11-28,Electronics,1,599,North
+ORD-1022,C-445,2025-11-29,Sports,3,267,West
+ORD-1023,C-512,2025-12-01,Home & Garden,1,45,South
+ORD-1024,C-204,2025-12-02,Electronics,1,899,West
+ORD-1025,C-331,2025-12-03,Apparel,4,220,East
+ORD-1026,C-118,2025-12-05,Groceries,15,120,South
+ORD-1027,C-667,2025-12-06,Beauty,2,68,North
+ORD-1028,C-092,2025-12-08,Electronics,1,349,North
+ORD-1029,C-512,2025-12-10,Home & Garden,6,198,South
+ORD-1030,C-445,2025-12-12,Sports,2,190,West
